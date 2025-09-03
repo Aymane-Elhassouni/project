@@ -2,6 +2,7 @@
 
 int main(){
 
+    printf("--- programme Calcul de Prime d'Assurance Auto ---\n");
     int age,tayp_voi,n_d;
     char x='%';
 
